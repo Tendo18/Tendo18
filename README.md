@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olamide
-- 👀 I’m interested in Backend development 
+- 👀 I’m interested a Backend developer
 - 🌱 I build web applications with python and django
 - 💞️ I’m looking to collaborate on growing and learning 
 - 📫 How to reach me ayomikungbada@gmail.com, LinkedIn: Olamide Gbadamosi
