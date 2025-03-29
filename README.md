@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Olamide
-- 👀 I’m interested in Full stack development 
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Backend development 
+- 🌱 I build web applications with python and django
 - 💞️ I’m looking to collaborate on growing and learning 
-- 📫 How to reach me ayomikungbada@gmail.com
+- 📫 How to reach me ayomikungbada@gmail.com, LinkedIn: Olamide Gbadamosi
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love football 
 
